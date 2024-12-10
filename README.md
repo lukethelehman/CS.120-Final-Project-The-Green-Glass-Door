@@ -9,6 +9,7 @@ The player will type guesses into a text box. Each guess will add 1 to its respe
 
 This project uses SimpleGE, a basic pygame game engine created by Andy Harris. 
 All Images come from https://www.canva.com 
+Audio comes from https://opengameart.org
 
 I learned a lot during this project. The biggest thing is the way that simple ideas and projects can take way longer than expected to program. I thought it would be a breeze getting this idea to work and look good, but there were a lot of struggles. I am glad I didn't wait until I thought I needed to start the project, or else I wouldn't have been able to complete it. I also learned that I actually really love programming, and am considering majoring in Computer Science. I wish I would have put more effort into this game and previous projects, but I am now excited to do that in CS121.
 
